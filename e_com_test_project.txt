@@ -1,0 +1,89 @@
+# QA E-commerce Testing Project
+
+# QA E-commerce Testing Project
+
+## Overview
+This project simulates a QA testing process for a basic e-commerce system including login, product browsing, cart management, and checkout functionality.
+
+The goal of this project is to demonstrate practical QA skills through:
+- Manual test case design
+- Bug reporting
+- Basic automation (smoke testing)
+
+The project is written from a **QA perspective**, not a development perspective.
+
+---
+
+## System Under Test (SUT)
+The simulated e-commerce system includes:
+
+- User Login
+- Product Listing
+- Shopping Cart
+- Checkout Process
+
+This system is similar in structure to real-world platforms such as large e-commerce applications like Amazon or eBay.
+
+---
+
+## Project Structure
+
+
+---
+
+## Testing Coverage
+
+### Manual Testing
+- Login functionality
+- Product listing and search
+- Cart operations (add, remove, update)
+- Checkout process validation
+
+### Bug Reporting
+- Structured bug report example for login module
+- Includes severity, priority, steps, and expected vs actual results
+
+### Automation
+- Basic smoke tests using Python
+- Valid and invalid login scenarios
+- Simple assertion-based testing
+
+---
+
+## QA Skills Demonstrated
+
+- Test case design (positive & negative scenarios)
+- Edge case thinking
+- Functional testing
+- Basic security awareness (SQL injection attempt coverage)
+- Bug reporting and documentation
+- Understanding of end-to-end system flow
+- Basic test automation (smoke testing)
+
+---
+
+## Tools Used
+
+- Python (basic automation)
+- Pytest (conceptual usage)
+- Markdown for documentation
+- GitHub for version control
+
+---
+
+## Key Focus
+
+This project is intentionally designed to reflect a **Junior QA Engineer mindset**, focusing on:
+- Testing logic rather than code complexity
+- Real-world QA workflow
+- Clear documentation and communication
+
+---
+
+## Author Notes
+
+This project was built as part of QA learning and practice to simulate real-world testing scenarios in an e-commerce environment.
+
+It focuses on quality assurance thinking, structured test design, and practical understanding of software behavior.
+
+---
